@@ -1,5 +1,7 @@
 ## 8. [Comparing Favorite Websites](8_technical_blog/readme.md) Reflection
 
-Blog url: <!-- Blog URL here (remove comment)  -->
+Blog url: file:///C:/Users/Zero/Documents/GitHub/zero400.github.io/unit1_projects/week1_technical_blog.html
 
 Reflect on the process of researching and writing a blog post. It doesn't have to be long. Did you enjoy this? Did you get comments or views? Did you find the blog helpful to your learning? Did you find it cumbersome? Which parts did you feel best about and which did you feel less certain about?
+
+I botched the process of setting it up. I didn't finish the blog post but I did enjoy learning about it. I enjoyed writing comparisons of websites and I realized that I hadn't fully considered a lot of why the sight was shaped and designed the ways that they were. I feel really comfortable about all of the design and licensing articles that I have been reading from the GitHub. I am still shakey on putting up web pages and I am sure GitHub will have plenty of pleasant suprises that  help me become skilled. I am much better at Ruby than front end languages. I finished the prep for HTML so early and was doing Euler Math in Ruby and a Coursera course about Rails to prep. This week I didn't allow necessary time to read. 
