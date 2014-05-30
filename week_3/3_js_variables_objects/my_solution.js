@@ -1,4 +1,4 @@
-// I paired [by myself, with:] on this challenge.
+// I paired  with: Danielle Sublett on this challenge.
 
 
 
@@ -13,11 +13,10 @@
 // __________________________________________
 // Write your code below.
 
-
-
-
-
-
+var secretNumber=7;
+var password="just open the door";
+var allowedIn = false;
+var members = ["John", "jesus", "this", "Mary"];
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 

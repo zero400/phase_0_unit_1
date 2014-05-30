@@ -8,3 +8,4 @@ Take a moment to reflect on reading other people's responses regarding their fea
 
 <!-- Insert your response here -->
 
+It was a lot about fear. It was a lot about risk and commitment and personal discipline. This means different things for different people. It is not that different though. Everyone here wants to grow. Everyone here is inspired to learn. This week, I drew back from working every second I could because I was behind. This week, I still had work and couldn't handle all work all the time. I am still stressing and growing and it is nice to have company in misery. We push and push and together we can make a change. 
