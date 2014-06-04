@@ -23,11 +23,11 @@ var members = ["John", "jesus", "this", "Mary"];
 
 
 
-
+//
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
+// We looked through the guidelines She helped 
 // 
 // 
 // 
