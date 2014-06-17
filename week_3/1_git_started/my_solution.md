@@ -3,40 +3,42 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+<!-- Add puts  a file on stage to get committed. Add a file every time it is ready   -->
+
 
 #### branch
-<!-- Your defnition here -->
+<!-- Used to view current and available (remote and local) branches. -->
+
 
 #### checkout
-<!-- Your defnition here -->
+<!-- Used to switch between branches.  -->
 
 #### clone
-<!-- Your defnition here -->
+<!-- Used to create a copy of a repository.  -->
 
 #### commit
-<!-- Your defnition here -->
+<!-- Stages the changes that you want to Save. This takes a Snapshot of the repository that you can refer back to. -m to add a message to the commit. Commit early and often.  -->
 
 #### fetch
-<!-- Your defnition here -->
+<!-- This pulls down a repository from remote source -->
 
 #### log
 <!-- Your defnition here -->
 
 #### merge
-<!-- Your defnition here -->
+<!-- This is where most problems come in. Merge conflicts arise when you're trying to create the master version of a project while  -->
 
 #### pull
-<!-- Your defnition here -->
+<!-- Pulls a repository from remote to local. -->
 
 #### push
-<!-- Your defnition here -->
+<!-- This changes the remote respository to the version of the repository that you are working on.  -->
 
 #### reset
-<!-- Your defnition here -->
+<!-- This removes all of the files from the stage to be committed.  -->
 
 #### rm
-<!-- Your defnition here -->
+<!-- Removes a single file from the added changes to be commited.  -->
 
 #### status
 
